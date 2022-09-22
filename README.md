@@ -1,4 +1,4 @@
-# Javascript Assignment 02
+# Javascript Assignment 06
 
 This is my Jokes Generator API..
 
