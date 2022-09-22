@@ -1,6 +1,6 @@
 # Javascript Assignment 02
 
-This is my Name Conversion Page..
+This is my Jokes Generator API..
 
 ### Output image
 
